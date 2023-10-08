@@ -1,0 +1,7 @@
+DEFINE_NEAR_METHOD(Contract)
+DEFINE_NEAR_METHOD(create_obj)
+DEFINE_NEAR_METHOD(create_session)
+DEFINE_NEAR_METHOD(get_obj)
+DEFINE_NEAR_METHOD(get_owner_by_id)
+DEFINE_NEAR_METHOD(get_sessions)
+DEFINE_NEAR_METHOD(get_sessions_by_owner)
